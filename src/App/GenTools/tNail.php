@@ -1,5 +1,5 @@
 <?php
-namespace GenTools;
+namespace App\GenTools;
 
 class tNail {
 

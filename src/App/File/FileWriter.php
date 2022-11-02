@@ -21,7 +21,7 @@ class FileWriter {
         fclose($this->fh);
     }    
 
-    public function write(string $text) : 
+    public function write(string $text) : int|bool
     {
        $res = fwrite($this->fh, "$text\n");
 
