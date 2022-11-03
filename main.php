@@ -11,16 +11,13 @@ if ($argc != 2) {
 	echo "Image folder not passed.\n";
 	return; 
 } 
+
 $start_dir = $argv[1];
 $ext = 'jpg';
 
-$jpg_iter = new \CallbackFilterIterator(
-   new DirectoryIterator($start_dir),
-   function (\SplFileInfo $info) use ($ext) {
+$jpg_iter = new \CallbackFilterIterator( new DirectoryIterator($start_dir), function (\SplFileInfo $info) use ($ext) {
 
       $b =  $info->isfile() && $info->getExtension() === $ext;
-
-      echo $b . "\n";
 
       return $b;
    }
