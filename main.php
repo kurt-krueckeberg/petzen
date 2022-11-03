@@ -29,7 +29,7 @@ $functor = function (\SplFileInfo $info) use ($t_maker) {
 
    $fname = $info->getPathname();
 
-   $output = $info->getPath() . '/t_' . $info->getBasename();
+   $output = $info->getPath() . 'thumbnails/t_' . $info->getBasename();
 
    $t_maker->generate($fname, 400, 400, $output);
 };
