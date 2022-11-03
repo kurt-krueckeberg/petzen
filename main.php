@@ -4,12 +4,13 @@ declare(strict_types=1);
 
 use App\GenTools\tNail as tNail;
 
-include 'boot-strap/boot-strap.php';
-
-boot_strap();
+include 'vendor/autoload.php';
 
 // argv[1] == start direcory
-
+if ($argc != 2) {
+	echo "Image folder not passed.\n";
+	return; 
+} 
 $start_dir = $argv[1];
 $ext = 'jpg';
 
