@@ -3,9 +3,7 @@
     "description": "geenalogy relate",
     "type": "library",
     "autoload": {
-        "psr-4": {
-            "LanguageTools\\": "src"
-        }
+        "psr-4": { "App\\": "src/App" }
     },
     "require": {
         "php": ">=8.1", 
