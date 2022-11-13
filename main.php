@@ -2,28 +2,27 @@
 
 declare(strict_types=1);
 
-use App\GenTools\tNail as tNail;
+use App\GenTools\tNail as thumbnail_maker;
 
 include 'vendor/autoload.php';
 
 // argv[1] == start direcory
 if ($argc != 2) {
-	echo "Image folder not passed.\n";
-	return; 
-} 
+   echo "Image folder not passed.\n";
+   return;
+}
 
 $start_dir = $argv[1];
-$ext = 'jpg';
+$file_ext = 'jpg';
 
-$jpg_iter = new \CallbackFilterIterator( new DirectoryIterator($start_dir), function (\SplFileInfo $info) use ($ext) {
-
-      $b =  $info->isfile() && $info->getExtension() === $ext;
-
-      return $b;
+$jpg_iter = new \CallbackFilterIterator(
+   new DirectoryIterator($start_dir),
+   function (\SplFileInfo $info) use ($file_ext): bool {
+      return $info->isfile() && $info->getExtension() === $file_ext;
    }
 );
 
-$t_maker =  new tNail();
+$t_maker =  new thumbnail_maker();
 
 $functor = function (\SplFileInfo $info) use ($t_maker) {
 

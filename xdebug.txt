@@ -1,6 +1,0 @@
-For Windows 11 and WSL do the following. 
-Make sure the WSL Extension--nor sure of its precise name--for vscode is installed.
-Install the WSL versions of all extensions.
-
-Follow the configuration steps in the documentation that comes with the xdebug/debug vscode extentension. 
-Note: Select the appropriate debug configuration--CLI, Webserver,etc-- from the pull-down list.
