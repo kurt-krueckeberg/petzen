@@ -1,4 +1,4 @@
-This is an example of how to properly cite Archion.de church book ia  images. The permanent in this example is to image (**Bild** in German) number 4 that was viewed on October 29, 2022. The navigation steps to access the image are also provided.
+This is an example of how to properly cite Archion.de church book images. The permanent in this example is to image (**Bild** in German) number 4 that was viewed on October 29, 2022. The navigation steps to access the image are also provided.
 
 |Archion image Permalink|Associated Citation|
 |:---|:---|
