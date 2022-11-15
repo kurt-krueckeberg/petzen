@@ -1,4 +1,6 @@
-# Petzen Church Book ContentSummary 
+# Petzen Church Book Contents Summary 
+
+This summary is for the surnames: Krückeberg and Weiland
 
 Note: The image links will not work unless you have an Archion.de subscription.
 
