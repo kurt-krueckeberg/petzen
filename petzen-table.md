@@ -4,7 +4,7 @@
 
 This summary is for the surnames: Krückeberg and Weiland
 
-Note: The image links will not work unless you have an Archion.de subscription.
+Note: The image links will not work unless you have an [Archion.de](www.archion.de) subscription.
 
 |Image Permalink|Year|Page No.|Entry #|Groom Name|Bride Name|
 | :---| :---| :---| :---| :---| :---|
