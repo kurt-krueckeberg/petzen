@@ -2,7 +2,7 @@
 
 ## Contents Summary 
 
-Krückeberg and Weiland summary.
+This table sshows the occurances of the Krückeberg and Weiland surnames.
 
 Note: The image links will not work unless you have an [Archion.de](www.archion.de) subscription.
 
