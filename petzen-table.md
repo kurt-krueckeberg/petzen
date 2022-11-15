@@ -2,7 +2,7 @@
 
 ## Contents Summary 
 
-This summary is for the surnames: Krückeberg and Weiland
+Krückeberg and Weiland summary.
 
 Note: The image links will not work unless you have an [Archion.de](www.archion.de) subscription.
 
