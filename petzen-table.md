@@ -1,15 +1,15 @@
-Marriages 
+# Petzen Church Book ContentSummary 
 
-Permalink|Bild(image) #er|Year|Page No.|Line # on page|Groom Name|Bride Name|date:DD-MM-YYYY ??? change year to be complete datand put this in a separate column than the date
-==============================================================
- 
-http://www.archion.de/p/e11abbc73d/,3,1785,1,3,Friderich Weiland,?
-http://www.archion.de/p/ae55fafcc8/,4,1788,3,5,Jobst Heinrich Weiland,?
-http://www.archion.de/p/40fbbf3938/,5,1790,5,8,Johann Heinrich Kruckeberg,?
-http://www.archion.de/p/40fbbf3938/,5,1790,5,13,Jobst Heinrich Kruckeberg,Philippine Christine Eleonore Tegtme[ij or y]ern
+Note: The image links will not work unless you have an Archion.de subscription.
 
-
-
-
-
-http://www.archion.de/p/43104d82e5/,28,...................,groom, Weiland
+|Image Permalink|Year|Page No.|Entry #|Groom Name|Bride Name|
+| :---| :---| :---| :---| :---| :---|
+|[Image 3][3] |1785|1|3|Friderich Weiland|?|
+|[Image 4][4] |1788|3|5|Jobst Heinrich Weiland|?|
+|[Image 5][5] |1790|5|8|Johann Heinrich Kruckeberg|?|
+|[Image 5][5] |1790|5|13|Jobst Heinrich Kruckeberg|Philippine Christine Eleonore Tegtme[ij or y]ern|
+              
+[3]: http://www.archion.de/p/e11abbc73d/
+[4]: http://www.archion.de/p/ae55fafcc8/
+[5]: http://www.archion.de/p/40fbbf3938/
+[5]: http://www.archion.de/p/40fbbf3938/
