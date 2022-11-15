@@ -1,4 +1,4 @@
-# Petzen Church Book Contents Summary 
+# Petzen Church Book 1785-1827 Contents Summary 
 
 This summary is for the surnames: Krückeberg and Weiland
 
